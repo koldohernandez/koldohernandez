@@ -49,7 +49,3 @@ Java (Vaadin, Struts and Hibernate)
 ## 📫 Get in touch 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/koldohernandez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/koldohernandez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/koldo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://koldo.dev)  
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=koldohernandez&show_icons=true)  
