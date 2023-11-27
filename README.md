@@ -53,5 +53,3 @@ Java (Vaadin, Struts and Hibernate)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koldohernandez&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/koldohernandez)  
