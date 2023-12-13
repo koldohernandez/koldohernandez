@@ -30,7 +30,6 @@ AWS
 
 Linux, OSX
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=koldohernandez&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 **... I'm experimenting with and creating side projects**
@@ -43,8 +42,9 @@ Linux, OSX
 
 PHP (Symfony)
 
-Java (Vaadin, Struts and Hibernate)
+Java
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=koldohernandez&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 📫 Get in touch 
